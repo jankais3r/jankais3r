@@ -25,10 +25,10 @@ Most of my repositories fit one of the following categories:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=iOS-LookingGlass)](https://github.com/jankais3r/iOS-LookingGlass)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloPortrait)](https://github.com/jankais3r/HoloPortrait)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloSkype)](https://github.com/jankais3rcHoloSkype)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloScan)](https://github.com/jankais3r/HoloScan)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloMinecraft)](https://github.com/jankais3r/HoloMinecraft)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloScan)](https://github.com/jankais3r/HoloScan)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloSkype)](https://github.com/jankais3r/HoloSkype)
 
 ### Depth-map generation
 
