@@ -36,8 +36,9 @@ Most of my repositories fit one of the following categories:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Seene-Depthify)](https://github.com/jankais3r/Seene-Depthify)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Video-Depthify)](https://github.com/jankais3r/Video-Depthify)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Minecraft-Depth-Extractor)](https://github.com/jankais3r/Minecraft-Depth-Extractor)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Inpainted-Photo-Sets)](https://github.com/jankais3r/Inpainted-Photo-Sets)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Minecraft-Depth-Extractor)](https://github.com/jankais3r/Minecraft-Depth-Extractor)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Pythonista-Extract-Depthmap)](https://github.com/jankais3r/Pythonista-Extract-Depthmap)
 
 ### Various hacks / workarounds
