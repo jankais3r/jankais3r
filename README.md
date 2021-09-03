@@ -20,6 +20,7 @@ Most of my repositories fit one of the following categories:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Insert-tracking-image)](https://github.com/jankais3r/Insert-tracking-image)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=jPhotoDNA)](https://github.com/jankais3r/jPhotoDNA)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=pyPhotoDNA)](https://github.com/jankais3r/pyPhotoDNA)
 
 ### Looking Glass holograms
 
