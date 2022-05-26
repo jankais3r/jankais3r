@@ -24,6 +24,8 @@ Most of my repositories fit one of the following categories:
 
 ### Looking Glass holograms
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=VirtualHPS)](https://github.com/jankais3r/VirtualHPS)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=driverless-HoloPlay.js)](https://github.com/jankais3r/driverless-HoloPlay.js)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=iOS-LookingGlass)](https://github.com/jankais3r/iOS-LookingGlass)
 
