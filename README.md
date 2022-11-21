@@ -1,17 +1,18 @@
 ### Hello friend 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=jankais3r&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jankais3r&langs_count=10&layout=compact)
 
-Find me on [<img alt="LinkedIn" height="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jankais3r)
+Find me on [<img alt="LinkedIn" height="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jankais3r) and [<img alt="LinkedIn" height="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />](https://defcon.social/@jankais3r).
 
 Most of my repositories fit one of the following categories:
-- [Digital Forensics / Online Privacy](#digital-forensics--online-privacy)
+- [Digital Forensics / Reverse Engineering / Online Privacy](#digital-forensics--reverse-engineering--online-privacy)
 - [Looking Glass holograms](#looking-glass-holograms)
 - [Depth-map generation](#depth-map-generation)
 - [Various hacks / workarounds](#various-hacks--workarounds)
 
 
-### Digital Forensics / Online Privacy
+### Digital Forensics / Reverse Engineering / Online Privacy
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=private-keyboard-layouts)](https://github.com/jankais3r/private-keyboard-layouts)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=DNoiSe)](https://github.com/jankais3r/DNoiSe)
@@ -21,6 +22,8 @@ Most of my repositories fit one of the following categories:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=jPhotoDNA)](https://github.com/jankais3r/jPhotoDNA)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=pyPhotoDNA)](https://github.com/jankais3r/pyPhotoDNA)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Frida-iOS-15-TLS-Keylogger)](https://github.com/jankais3r/Frida-iOS-15-TLS-Keylogger)
 
 ### Looking Glass holograms
 
