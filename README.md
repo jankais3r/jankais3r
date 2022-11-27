@@ -1,10 +1,29 @@
 ### Hello friend 👋
-![](https://github-readme-stats.vercel.app/api?username=jankais3r&show_icons=true&hide_rank=true&card_width=350&line_height=28&theme=github_dark#gh-dark-mode-only)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jankais3r&langs_count=10&layout=compact&theme=github_dark#gh-dark-mode-only)
-![](https://github-readme-stats.vercel.app/api?username=jankais3r&show_icons=true&hide_rank=true&card_width=350&line_height=28&theme=default#gh-light-mode-only)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jankais3r&langs_count=10&layout=compact&theme=default#gh-dark-light-only)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jankais3r&show_icons=true&hide_rank=true&card_width=350&line_height=28&theme=github_dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jankais3r&show_icons=true&hide_rank=true&card_width=350&line_height=28&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jankais3r&show_icons=true&hide_rank=true&card_width=350&line_height=28&theme=default" />
+</picture>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jankais3r&langs_count=10&layout=compact&theme=github_dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jankais3r&langs_count=10&layout=compact&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jankais3r&langs_count=10&layout=compact&theme=default" />
+</picture>
 
-Find me on [<img alt="LinkedIn" height="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jankais3r) and [<img alt="LinkedIn" height="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />](https://defcon.social/@jankais3r).
+
+Find me on [<img alt="LinkedIn" height="15" src="https://cdn.simpleicons.org/twitter/#1DA1F2" />](https://twitter.com/jankais3r) and [<img alt="LinkedIn" height="15" src="https://cdn.simpleicons.org/mastodon/#6364FF" />](https://defcon.social/@jankais3r).
 
 Most of my repositories fit one of the following categories:
 - [Digital Forensics / Reverse Engineering / Online Privacy](#digital-forensics--reverse-engineering--online-privacy)
