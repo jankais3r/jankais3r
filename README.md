@@ -1,6 +1,5 @@
 ### Hello friend 👋
-
-![](https://github-readme-stats.vercel.app/api?username=jankais3r&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=jankais3r&show_icons=true&hide_rank=true&line_height=28)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jankais3r&langs_count=10&layout=compact)
 
 Find me on [<img alt="LinkedIn" height="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jankais3r) and [<img alt="LinkedIn" height="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />](https://defcon.social/@jankais3r).
