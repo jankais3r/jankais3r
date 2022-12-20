@@ -34,7 +34,7 @@ Most of my repositories fit one of the following categories:
 
 ### Digital Forensics / Reverse Engineering / Online Privacy
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=private-keyboard-layouts&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -44,8 +44,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=private-keyboard-layouts&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/private-keyboard-layouts)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=DNoiSe&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -55,9 +55,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=DNoiSe&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/DNoiSe)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Forensic-Version-Checker&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -67,8 +67,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Forensic-Version-Checker&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/Forensic-Version-Checker)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Insert-tracking-image&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -78,9 +78,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Insert-tracking-image&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/Insert-tracking-image)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=jPhotoDNA&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -90,8 +90,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=jPhotoDNA&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/jPhotoDNA)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=pyPhotoDNA&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -101,9 +101,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=pyPhotoDNA&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/pyPhotoDNA)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Frida-iOS-15-TLS-Keylogger&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -113,8 +113,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Frida-iOS-15-TLS-Keylogger&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/Frida-iOS-15-TLS-Keylogger)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Clearwell-backup-extractor&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -124,11 +124,11 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Clearwell-backup-extractor&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/Clearwell-backup-extractor)
 
 ### Looking Glass holograms
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=VirtualHPS&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -138,9 +138,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=VirtualHPS&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/VirtualHPS)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=driverless-HoloPlay.js&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -150,8 +150,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=driverless-HoloPlay.js&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/driverless-HoloPlay.js)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=iOS-LookingGlass&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -161,9 +161,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=iOS-LookingGlass&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/iOS-LookingGlass)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloPortrait&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -173,8 +173,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloPortrait&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/HoloPortrait)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloScan&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -184,9 +184,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloScan&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/HoloScan)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloMinecraft&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -196,8 +196,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloMinecraft&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/HoloMinecraft)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloSkype&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -207,11 +207,11 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=HoloSkype&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/HoloSkype)
 
 ### Depth-map generation
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=RGB-Depthify&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -221,8 +221,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=RGB-Depthify&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/RGB-Depthify)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Seene-Depthify&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -232,9 +232,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Seene-Depthify&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/Seene-Depthify)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Video-Depthify&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -244,8 +244,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Video-Depthify&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/Video-Depthify)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Inpainted-Photo-Sets&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -255,9 +255,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Inpainted-Photo-Sets&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/Inpainted-Photo-Sets)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Minecraft-Depth-Extractor&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -267,8 +267,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Minecraft-Depth-Extractor&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/Minecraft-Depth-Extractor)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Pythonista-Extract-Depthmap&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -278,11 +278,11 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Pythonista-Extract-Depthmap&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/Pythonista-Extract-Depthmap)
 
 ### Various hacks / workarounds
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Podcast-Video-Exporter&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -292,8 +292,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Podcast-Video-Exporter&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/Podcast-Video-Exporter)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Recolor&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -303,9 +303,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Recolor&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/Recolor)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Unistellar-eVscope-research&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -315,8 +315,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Unistellar-eVscope-research&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/Unistellar-eVscope-research)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=VitalSource-Grabber&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -326,9 +326,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=VitalSource-Grabber&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/VitalSource-Grabber)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=PDF-Text-Extract&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -338,8 +338,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=PDF-Text-Extract&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/PDF-Text-Extract)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Synology-channel-limiter&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -349,9 +349,9 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=Synology-channel-limiter&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/Synology-channel-limiter)
 
-<picture>
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=RDPcopy&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -361,8 +361,8 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=RDPcopy&theme=default" />
-</picture>
-<picture>
+</picture>](https://github.com/jankais3r/RDPcopy)
+[<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=SQL-stringEXEC&theme=github_dark"
   media="(prefers-color-scheme: dark)"
@@ -372,4 +372,4 @@ Most of my repositories fit one of the following categories:
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jankais3r&repo=SQL-stringEXEC&theme=default" />
-</picture>
+</picture>](https://github.com/jankais3r/SQL-stringEXEC)
